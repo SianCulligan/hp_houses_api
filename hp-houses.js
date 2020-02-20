@@ -1,5 +1,7 @@
 'use strict';
 
+require('dotenv').config();
+
 const express = require('express');
 const cors = require('cors');
 const pg = require('pg');
@@ -20,10 +22,11 @@ function errorHandler(error, request, response) {
   response.status(500).send(error);
 }
 
-//server "listener"
-client.connect()
-  .then(() => {
-    app.listen(PORT, () => console.log(`Server up on port ${PORT}`))
-  });
+function startServer() {
+    app.listen(process.env.PORT, () => console.log(`Server running on ${PORT}`));
+  }
+  
+  startServer();
+  
 
 
