@@ -1,8 +1,9 @@
 {
+  "start":"node hphouse.json",
   "name": "hp_houses_api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "hphouse.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
