@@ -9,12 +9,13 @@ const pg = require('pg');
 const PORT = process.env.PORT;
 const app = express();
 app.use(cors());
+app.use(express.urlencoded({ extended: true }));
 
 const client = new pg.Client(process.env.DATABASE_URL);
 client.on('error', err => console.error(err));
 
 app.get('/', (request, response) => {
-  response.send(`It's alllllive!`);
+  response.send('/hphouse.json');
 });
 
 //helper functions (error catching)
