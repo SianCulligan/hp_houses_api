@@ -12,8 +12,7 @@ const PORT = process.env.PORT;
 const app = express();
 app.use(cors());
 
-// const client = new pg.Client(process.env.DATABASE_URL);
-client.on('error', err => console.error(err));
+
 
 //SAVE - USE AS REFERENCE, THIS WILL TRAVERSE THE OBJECT
 // app.get('/', (request, response) => {
