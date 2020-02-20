@@ -12,7 +12,7 @@ const PORT = process.env.PORT;
 const app = express();
 app.use(cors());
 
-const client = new pg.Client(process.env.DATABASE_URL);
+// const client = new pg.Client(process.env.DATABASE_URL);
 client.on('error', err => console.error(err));
 
 //SAVE - USE AS REFERENCE, THIS WILL TRAVERSE THE OBJECT
@@ -30,9 +30,6 @@ function errorHandler(error, request, response) {
 }
 
 //server "listener"
-client.connect()
-  .then(() => {
-    app.listen(PORT, () => console.log(`Server up on port ${PORT}`))
-  });
+    app.listen(PORT, () => console.log(`Server up on port ${PORT}`));
 
 
