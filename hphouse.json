@@ -6,7 +6,7 @@
         "rival" : "Slytherin",
         "colors": "Scarlet and gold",
         "icon": "https://toppng.com/uploads/preview/ryffindor-crest-harry-potter-gryffindor-logo-11562851409msf1n4vpev.png",
-        "magicNumber": "2"
+        "magicNumber": "1"
         },
     {
         "houseName": "Slytherin",
@@ -15,7 +15,7 @@
         "rival" : "Gryffindor",
         "colors": "Green and silver",
         "icon": "https://toppng.com/uploads/preview/harry-potter-slytherin-logo-11549535063t3nuppcxfd.png",
-        "magicNumber": "3"
+        "magicNumber": "2"
     },
     {
         "houseName": "Hufflepuff",
@@ -24,7 +24,7 @@
         "rival" : "Ravenclaw",
         "colors": "Yellow and black",
         "icon": "https://toppng.com/uploads/preview/escudo-gryffindor-png-hufflepuff-house-11563000685lwbmbe5zf8.png",
-        "magicNumber": "4"
+        "magicNumber": "3"
     },
     {
         "houseName": "Ravenclaw",
@@ -33,7 +33,7 @@
         "rival" : "Hufflepuff",
         "colors": "Blue and bronze",
         "icon": "https://toppng.com/uploads/preview/ravenclaw-sticker-hogwarts-house-crest-ravenclaw-11562922554sgdfrcs8io.png",
-        "magicNumber": "5"
+        "magicNumber": "4"
     }
   ]
 
