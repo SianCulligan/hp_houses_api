@@ -5,7 +5,7 @@
         "description": "The Gryffindor house emphasizes the traits of courage as well as daring, nerve, and chivalry, and thus its members are generally regarded as brave, though sometimes to the point of recklessness.",
         "rival" : "Slytherin",
         "colors": "Scarlet and gold",
-        "icon": "https://toppng.com/uploads/preview/ryffindor-crest-harry-potter-gryffindor-logo-11562851409msf1n4vpev.png",
+        "icon": "https://vignette.wikia.nocookie.net/harrypotter/images/b/b1/Gryffindor_ClearBG.png/revision/latest?cb=20190222162949",
         "magicNumber": "1"
         },
     {
@@ -14,7 +14,7 @@
         "description": "Slytherins tend to be ambitious, shrewd, cunning, strong leaders, and achievement-oriented. They also have highly developed senses of self-preservation.[8] This means that Slytherins tend to hesitate before acting, so as to weigh all possible outcomes before deciding exactly what should be done.",
         "rival" : "Gryffindor",
         "colors": "Green and silver",
-        "icon": "https://toppng.com/uploads/preview/harry-potter-slytherin-logo-11549535063t3nuppcxfd.png",
+        "icon": "https://vignette.wikia.nocookie.net/harrypotter/images/0/00/Slytherin_ClearBG.png/revision/latest/scale-to-width-down/700?cb=20161020182557",
         "magicNumber": "2"
     },
     {
@@ -23,7 +23,7 @@
         "description": "Hufflepuffs are known to be hard-working, friendly, loyal, honest and rather impartial. It may be that due to their values, Hufflepuffs are not as competitive as the other houses, and are more modest about their accomplishments. Hufflepuff is the most inclusive among the four houses; valuing hard work, dedication, patience, loyalty, and fair play rather than a particular aptitude in its students.",
         "rival" : "Ravenclaw",
         "colors": "Yellow and black",
-        "icon": "https://toppng.com/uploads/preview/escudo-gryffindor-png-hufflepuff-house-11563000685lwbmbe5zf8.png",
+        "icon": "https://vignette.wikia.nocookie.net/harrypotter/images/0/06/Hufflepuff_ClearBG.png/revision/latest?cb=20161020182518",
         "magicNumber": "3"
     },
     {
@@ -32,7 +32,7 @@
         "description": "Ravenclaw House prizes learning, wisdom, wit, and intellect in its members. Thus, many Ravenclaws tend to be academically motivated and talented students. They also pride themselves on being original in their ideas, and methods. It's not unusual to find Ravenclaw students practising especially different types of magic that other houses might shun.",
         "rival" : "Hufflepuff",
         "colors": "Blue and bronze",
-        "icon": "https://toppng.com/uploads/preview/ravenclaw-sticker-hogwarts-house-crest-ravenclaw-11562922554sgdfrcs8io.png",
+        "icon": "https://vignette.wikia.nocookie.net/harrypotter/images/4/4e/RavenclawCrest.png/revision/latest/scale-to-width-down/700?cb=20161020182442",
         "magicNumber": "4"
     }
   ]
